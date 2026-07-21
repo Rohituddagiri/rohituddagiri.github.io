@@ -1,0 +1,71 @@
+Executive summary
+Generative AI and Data Engineering professional with 4+ years of experience in cloud-native data platforms and 2+ years in AI/ML integration. Proven expertise in designing scalable data pipelines, deploying Large Language Models (LLMs), and building AI-driven solutions for enterprise applications.
+EDUCATION
+Master's in Data Science - University at Buffalo | GPA: 4.0/4.0						       Feb 2024
+Relevant Coursework: Statistical Data Mining, Probability & Statistics in CS (R), Machine Learning (Python), DBMS
+Bachelor's in Electronics and Instrumentation Engineering - SASTRA University | GPA: 3.64/4.0		                      Jun 2020
+CERTIFICATIONS
+Microsoft Certified: Azure Data Engineer Associate
+Oracle: OCI 2025 AI Foundations Associate
+AWS: Certified Cloud Practitioner
+Snowflake: Data Engineering
+Snowflake: Data Warehousing
+Snowflake: Data Application Builder
+Azure Databricks Fundamentals
+SKILLS
+AI & Machine Learning
+AI Agent Development		: Azure AI Foundry, Google Vertex AI, Google Agent Development Kit (ADK), LangChain, LangGraph, ReAct Agents, Agentic Workflows, Multi-Agent Systems, Model Context Protocol (MCP)
+Large Language Models (LLMs)	: Prompt Engineering, Retrieval-Augmented Generation (RAG), Fine-Tuning (LoRA, PEFT), Context Optimization, Semantic Search
+AI/ML Frameworks		: Hugging Face Transformers, PyTorch, TensorFlow, Scikit-learn, LangChain, LangSmith, MLflow, Vertex AI SDK
+NLP				: Text Summarization, Entity Recognition, Text Classification, Embedding Generation, Document Similarity, Vector Search (Pinecone, FAISS, Chroma)
+Models				: Gemini Pro 1.x, Mistral-7B, Falcon-7B, DistilBERT, Claude, OpenAI GPT-4/3.5
+Programming & Data Technologies
+Languages			: Python, SQL, Java, Scala, R, Shell Scripting, PL/SQL
+Data Platforms & Databases	: Google BigQuery, Snowflake, Azure Databricks, PostgreSQL, Oracle, MySQL, Redis Vector Store
+Data Processing & ETL		: PySpark, Dataflow, Dataproc, ETL/ELT Pipelines, Data Modeling (Star/Snowflake Schema), Data Governance, PII Handling, Medallion Architecture (Bronze/Silver/Gold)
+Cloud & DevOps
+Cloud Platforms			: Azure (Data Factory, Synapse, AI Studio), Google Cloud (Gemini, BigQuery, Dataflow, Cloud Run, Vertex AI, Pub/Sub, Cloud Functions), AWS (S3, Glue, Lambda, SageMaker, Bedrock)
+DevOps & MLOps Tools		: CI/CD (Cloud Build, Azure DevOps, GitHub Actions), Docker, Kubernetes, Jenkins, Terraform, REST API Development, LLMOps, Model Serving & Observability
+PROFESSIONAL EXPERIENCE
+AI Engineer  | Kaizen Analytix, Plano, TX                                                                                                                                           April 2026 - Present
+Design and build reusable AI agent skills within an internal AI product, automating repetitive data science, data engineering, solution architecture, front-end design, and project delivery workflows for cross-functional teams, reducing manual effort and accelerating delivery.
+Use AI-native development practices, including Claude and LLM-assisted coding, to independently scope, prototype, and ship internal automation tools end-to-end, iterating quickly based on user feedback with minimal oversight.
+Integrated internal and third-party APIs to streamline data and workflow automation across the AI product, and deployed LLM-powered document summarization capabilities using models like Claude to enhance decision support for internal teams.
+Data Integration Developer | Christopher Newport University, Newport News, VA                                                         Aug 2024 - March 2026
+Architected and deployed multimodal RAG and ReAct agent pipelines using LangChain and LlamaIndex to summarize procurement and policy documents, reducing manual analysis time by 60%.
+Developed an AI-powered student support system by implementing prompt-engineering workflows with Azure OpenAI to automate student communication using ERP and CRM data, improving response accuracy by 45%.
+Developed a GenAI-powered Smart Chatbot leveraging LangChain and Azure AI Search Services, enabling automated query generation and context retrieval for staff support, cutting response latency by 40%.
+Implemented robust LLMOps and observability frameworks with LangSmith, providing deep traceability, prompt versioning, and iterative reasoning debugging for multi-step AI workflows.
+Created embedding pipelines for document search using Azure AI Search’s vector features, improving retrieval precision for institutional documents.
+Developed high-performance data ingestion workflows integrating CRM, ERP, and LMS systems using Azure Data Factory and Snowflake Tasks/Streams.
+Implemented vector feature stores for AI retrieval applications and designed schemas optimized for embedding storage and semantic search.
+Software Engineer | Claftech			              	                                      	   			  Feb 2024 – July 2024
+Fine-tuned Mistral-7B and DistilBERT models for underwriting data mapping, document understanding, and reconciliation, reducing manual processing effort by 60% and improving field-level accuracy across internal systems.
+Built RAG pipelines combining embeddings, policy documents, submission files, and structured underwriting data to support automated decisioning workflows.
+Developed deep learning–based document intelligence systems for extracting endorsements, limits, exclusions, and risk indicators from PDFs using OCR + LLMs.
+Implemented embedding-based semantic retrieval using FAISS for underwriting and claims documents (100 GB+ corpus), improving retrieval precision for downstream AI agents.
+Designed and deployed agentic AI workflows for underwriting triage and claims summarization using LangChain and ReAct-style agent frameworks.
+Built autonomous agents capable of performing multi-step reasoning, tool use (Snowflake SQL, API calls), and automated remediation actions for operational tasks.
+Developed LLM-based summarization systems to process customer correspondence, claims adjuster notes, and broker submissions, accelerating turnaround times for written responses.
+Data Scientist | Deloitte, Hyderabad, TS                                                                                                                                         Feb 2022 – July 2022
+Performed Statistical analysis on clinical trial data using SQL and R within a Databricks data warehouse to identify KPIs, leading to a 15% increase in enrollment rates and a 10% decrease in adverse event reporting rates.
+Designed and maintained interactive dashboards on Tableau to present actionable insights, resulting in a 25% improvement in decision-making and a 20% increase in operational efficiency.
+Developed and deployed XGBoost classification machine learning model with 90% accuracy in classifying patients into different risk levels of diabetic disease, leading to the development of personalized prevention strategies for at- risk individuals.
+Associate System Engineer | TATA Consultancy Services, Bangalore, KA                                                                                   Jun 2020 – Jan 2022
+Developed end-to-end migration of 1000+ TB of enterprise data from Teradata to Snowflake, including schema conversion, historical data transfer, and validation, resulting in a 40% improvement in query performance and reduced storage costs.
+Conducted performance tuning and optimization of PySpark jobs, reducing execution time by 40% and increasing overall system throughput.
+Utilized AWS EMR to develop data transformation frameworks using PySpark and SparkSQL, resulting in availability of previously inaccessible large-scale datasets to 150+ end clients.
+Successfully processed and transformed a 100+ GB file using Apache Spark on AWS EMR, demonstrating robust handling of large-scale datasets in a distributed compute environment.
+Automated data loading from AWS S3 buckets to Snowflake using AWS Lambda, SQS, Glue and SnowPipe services reducing manual workload by 30%.
+ACADEMIC PROJECT EXPERIENCE
+FinSight: AI-Powered Financial Research Agent:(link) Tech Stack: Google ADK, Gemini LLM, MCP, Multi-Agent Orchestration, SEC XBRL API, Python, Streamlit
+Developed multi-agent financial research platform enabling natural language queries on SEC filings (10-K/10-Q) with fact-based insights
+Architected HostAgent coordinator and SecAgent worker using Agent Development Kit (ADK) and Model Context Protocol (MCP)
+Implemented autonomous agents with tool use capabilities (CIK lookup, company facts retrieval, frame data extraction) integrating live SEC EDGAR API
+Built explainable AI system providing fiscal year, form type, and filing dates with each response for transparency
+AI-Powered Documentation Query System: Tech Stack: Claude, FastMCP, SerperAPI, BeautifulSoup, MCP Interpreter, API Integration
+Developed an AI-powered system that automates reading and understanding the latest documentation from LangChain, OpenAI, and LlamaIndex.
+Integrated Claude AI and FastMCP for real-time interpretation of technical content, enabling instant responses to user queries.
+Financial News Classification using Generative AI:(link) Tech Stack: DistilBERT, LoRA, PEFT, HuggingFace, Transformers, TensorFlow
+Developed Financial News Classification model leading to enhanced insights into the impact of financial discussions and market trends from tweet texts.
+Utilized AWS Sagemaker to train and deploy the LLM model into production, ensuring end users accessibility. Leveraged PEFT-based LoRa fine-tuning algorithms on distilBERT model achieving a 10% increase in prediction accuracy.
